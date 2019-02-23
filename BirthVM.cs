@@ -33,40 +33,9 @@ namespace Lab1Malynovskyi
             }
         }
 
-        public string Age
-        {
-            get
-            {
-                return _birthMod.Age;
-            }
-        }
-
-        public string WestZodiac
-        {
-            get
-            {
-                return _birthMod.WestZodiac;
-            }
-        }
-
-        public string ChineseZodiac
-        {
-            get
-            {
-                return _birthMod.ChineseZodiac;       
-            }
-        } 
-
         internal BirthVM()
         {
         }
-
         public event PropertyChangedEventHandler PropertyChanged;
-
-        
-        protected virtual void OnPropertyChanged([CallerMemberName] string propertyName = null)
-        {
-            PropertyChanged.Invoke(this, new PropertyChangedEventArgs(propertyName));
-        }
     }
 }

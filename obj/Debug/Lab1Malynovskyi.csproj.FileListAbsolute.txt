@@ -1,0 +1,13 @@
+C:\Users\Vladic\Documents\Visual Studio 2013\Projects\Lab1Malynovskyi\Lab1Malynovskyi\bin\Debug\Lab1Malynovskyi.exe.config
+C:\Users\Vladic\Documents\Visual Studio 2013\Projects\Lab1Malynovskyi\Lab1Malynovskyi\bin\Debug\Lab1Malynovskyi.exe
+C:\Users\Vladic\Documents\Visual Studio 2013\Projects\Lab1Malynovskyi\Lab1Malynovskyi\bin\Debug\Lab1Malynovskyi.pdb
+C:\Users\Vladic\Documents\Visual Studio 2013\Projects\Lab1Malynovskyi\Lab1Malynovskyi\obj\Debug\Lab1Malynovskyi.csprojResolveAssemblyReference.cache
+C:\Users\Vladic\Documents\Visual Studio 2013\Projects\Lab1Malynovskyi\Lab1Malynovskyi\obj\Debug\MainWindow.baml
+C:\Users\Vladic\Documents\Visual Studio 2013\Projects\Lab1Malynovskyi\Lab1Malynovskyi\obj\Debug\MainWindow.g.cs
+C:\Users\Vladic\Documents\Visual Studio 2013\Projects\Lab1Malynovskyi\Lab1Malynovskyi\obj\Debug\App.g.cs
+C:\Users\Vladic\Documents\Visual Studio 2013\Projects\Lab1Malynovskyi\Lab1Malynovskyi\obj\Debug\Lab1Malynovskyi_MarkupCompile.cache
+C:\Users\Vladic\Documents\Visual Studio 2013\Projects\Lab1Malynovskyi\Lab1Malynovskyi\obj\Debug\Lab1Malynovskyi.g.resources
+C:\Users\Vladic\Documents\Visual Studio 2013\Projects\Lab1Malynovskyi\Lab1Malynovskyi\obj\Debug\Lab1Malynovskyi.Properties.Resources.resources
+C:\Users\Vladic\Documents\Visual Studio 2013\Projects\Lab1Malynovskyi\Lab1Malynovskyi\obj\Debug\Lab1Malynovskyi.csproj.GenerateResource.Cache
+C:\Users\Vladic\Documents\Visual Studio 2013\Projects\Lab1Malynovskyi\Lab1Malynovskyi\obj\Debug\Lab1Malynovskyi.exe
+C:\Users\Vladic\Documents\Visual Studio 2013\Projects\Lab1Malynovskyi\Lab1Malynovskyi\obj\Debug\Lab1Malynovskyi.pdb
